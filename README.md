@@ -1,10 +1,10 @@
 # What is it?
 Simple project that will help you download files from internet, even if your connection speed is low.
 
-## WHat it for?
-First of all, the script is designed for downloading videos from Youtube or any direct downloads.
+## What it for?
+Script designed and aimed for direct downloads & any YT-DLP [supported](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) video sites
 
-## How to use it:
+## How to use it?
 Look inside Google Colab.\
 Up-to-date version of the script and documentation is always in the colab
 
